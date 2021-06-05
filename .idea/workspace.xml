@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7aa6e9dc-fb06-4ced-9e1f-3f7cb31262d4" name="Default Changelist" comment="">
+    <list default="true" id="7aa6e9dc-fb06-4ced-9e1f-3f7cb31262d4" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nightwatch.browserstack.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/nightwatch.browserstack.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vrt/baseline/firstTest/my first test case/home page.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vrt/baseline/firstVRTest/home page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622865337356</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1622865853871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622865853871</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1622865982074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622865982074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,14 +89,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="540" y="108" key="CommitChangelistDialog2" timestamp="1622865853774">
+    <state x="540" y="108" key="CommitChangelistDialog2" timestamp="1622866093027">
       <screen x="0" y="25" width="1920" height="967" />
     </state>
-    <state x="540" y="108" key="CommitChangelistDialog2/0.25.1920.967@0.25.1920.967" timestamp="1622865853774" />
-    <state x="560" y="245" key="Vcs.Push.Dialog.v2" timestamp="1622865855083">
+    <state x="540" y="108" key="CommitChangelistDialog2/0.25.1920.967@0.25.1920.967" timestamp="1622866093027" />
+    <state x="560" y="245" key="Vcs.Push.Dialog.v2" timestamp="1622866099405">
       <screen x="0" y="25" width="1920" height="967" />
     </state>
-    <state x="560" y="245" key="Vcs.Push.Dialog.v2/0.25.1920.967@0.25.1920.967" timestamp="1622865855083" />
+    <state x="560" y="245" key="Vcs.Push.Dialog.v2/0.25.1920.967@0.25.1920.967" timestamp="1622866099405" />
     <state x="634" y="304" key="git4idea.merge.GitPullDialog" timestamp="1622863715788">
       <screen x="0" y="25" width="1920" height="967" />
     </state>
