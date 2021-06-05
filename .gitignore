@@ -1,8 +1,13 @@
 *.log
 .cache
 .DS_Store
+.idea
+*.iml
 src/.temp
 node_modules
 dist
 .env
 .env.*
+tests_output
+chromedriver.log
+geckodriver.log

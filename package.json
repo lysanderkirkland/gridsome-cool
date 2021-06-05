@@ -4,12 +4,19 @@
   "scripts": {
     "develop": "gridsome develop",
     "explore": "gridsome explore",
-    "build": "gridsome build"
+    "build": "npm run test:vrt && gridsome build",
+    "test:e2e": "nightwatch -c nightwatch.config.js",
+    "test:vrt": "nightwatch -c nightwatch.vrt.conf.js"
   },
   "dependencies": {
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.4",
     "gridsome": "^0.7.0",
     "netlify-cms-app": "^2.15.9"
+  },
+  "devDependencies": {
+    "chromedriver": "^91.0.0",
+    "nightwatch": "^1.6.4",
+    "nightwatch-vrt": "^0.2.10"
   }
 }
