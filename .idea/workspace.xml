@@ -23,6 +23,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -76,14 +77,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="540" y="108" key="CommitChangelistDialog2" timestamp="1622865337235">
+    <state x="540" y="108" key="CommitChangelistDialog2" timestamp="1622865853774">
       <screen x="0" y="25" width="1920" height="967" />
     </state>
-    <state x="540" y="108" key="CommitChangelistDialog2/0.25.1920.967@0.25.1920.967" timestamp="1622865337235" />
-    <state x="560" y="245" key="Vcs.Push.Dialog.v2" timestamp="1622865338588">
+    <state x="540" y="108" key="CommitChangelistDialog2/0.25.1920.967@0.25.1920.967" timestamp="1622865853774" />
+    <state x="560" y="245" key="Vcs.Push.Dialog.v2" timestamp="1622865855083">
       <screen x="0" y="25" width="1920" height="967" />
     </state>
-    <state x="560" y="245" key="Vcs.Push.Dialog.v2/0.25.1920.967@0.25.1920.967" timestamp="1622865338588" />
+    <state x="560" y="245" key="Vcs.Push.Dialog.v2/0.25.1920.967@0.25.1920.967" timestamp="1622865855083" />
     <state x="634" y="304" key="git4idea.merge.GitPullDialog" timestamp="1622863715788">
       <screen x="0" y="25" width="1920" height="967" />
     </state>
