@@ -42,7 +42,10 @@ nightwatch_config = {
                 'browserstack.user': 'lysander_knzC3o',
                 'browserstack.key': 'SHLb5Gpv3b7SVQZgMGMN',
                 'browserstack.debug': true,
-                'browser': 'chrome'
+                'browser': 'chrome',
+                'browser_version': '91.0',
+                'os': 'Windows',
+                'os_version': '10'
             }
         }
     }
